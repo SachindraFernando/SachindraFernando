@@ -1,6 +1,6 @@
 # Hi there, I'm Sachindra Fernando 👩‍💻👋
-<hr>
-## Find me around the web 🌎
+
+Find me around the web 🌎
 <ul>
 <li><a href="https://sachindrafernando.github.io/">Web</a></li>
 <li><a href="https://www.linkedin.com/in/sachindrafernando/">LinkedIn</a></li>
