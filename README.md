@@ -1,5 +1,10 @@
 # Hi there, I'm Sachindra Fernando 👩‍💻👋
-
+<hr>
+## Find me around the web 🌎
+<a href="https://sachindrafernando.github.io/">Web</a>
+<a href="https://www.linkedin.com/in/sachindrafernando/">LinkedIn</a>
+<a href="https://github.com/SachindraFernando">GitHub</a>
+<a href="https://medium.com/@sachindrafernando3">Medium</a>
 <!--
 **SachindraFernando/SachindraFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
